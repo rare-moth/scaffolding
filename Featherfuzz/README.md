@@ -14,7 +14,7 @@ SCSS compiled with Gulp.js.
 
 ```$ npm install -g gulp ``` install global gulp
 
-```$ mkdir build ``` create destination folder => to be automated in futer task
+```$ gulp buildTask``` run build
 
-```$ gulp sass``` run sass compiler task
+```$ gulp ``` run build + watch
 
