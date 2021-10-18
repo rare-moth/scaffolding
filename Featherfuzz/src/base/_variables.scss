@@ -1,0 +1,46 @@
+////
+/// Variables
+/// @group base
+////
+
+
+/// Font weight
+/// @type Number
+$font-weight-thin: 100 !default;
+/// @type Number
+$font-weight-light: 300 !default;
+/// @type Number
+$font-weight-default: 400 !default;
+/// @type Number
+$font-weight-book: 500 !default;
+/// @type Number
+$font-weight-medium: 600 !default;
+/// @type Number
+$font-weight-bold: 700 !default;
+
+/// Border
+//// @type Length
+$border-width-thin: 0.0625rem !default;  // ~1px
+/// @type Length
+$border-width-default: 0.125rem !default; // ~2px
+/// @type Length
+$border-width-outline: 0.1875rem !default;  // ~3px
+/// @type Length
+$border-width-thick: 0.25rem !default;  // ~4px
+
+/// @type String
+$border-style-default: solid !default;
+/// @type String
+$border-style-alternate: dotted !default;
+
+/// Transition
+/// @type Length
+$transition-duration--instant: 0.001s !default;
+/// @type Length
+$transition-duration--short: 0.125s !default;
+/// @type Length
+$transition-duration: 0.2s !default;
+/// @type Length
+$transition-duration--medium: 0.4s !default;
+/// @type Length
+$transition-duration--long: 0.6s !default;
