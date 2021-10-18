@@ -1,3 +1,6 @@
 @charset "UTF-8";
 
-@import 'base/reset';
+@import 'constant/reset';
+
+@import 'base/utils';
+@import 'base/color_used';
