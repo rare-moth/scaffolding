@@ -8,6 +8,8 @@ SCSS compiled with Gulp.js.
 
 ## Build
 
+Using Node v14 and Gulp v4.
+
 ```$ npm install ``` install node modules
 
 ```$ npm install -g sass ``` install global sass
